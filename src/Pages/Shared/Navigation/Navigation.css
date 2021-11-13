@@ -1,0 +1,20 @@
+@media only screen and (max-width: 666px) {
+  .header {
+    width: 100%;
+  }
+  .nav {
+    display: none;
+  }
+  .bar-icon {
+    display: block;
+    font-size: 30px;
+    cursor: pointer;
+  }
+  .mobile-menu {
+    display: block;
+    margin-top: 50px;
+  }
+  .mobile-menu a {
+    display: block;
+  }
+}
