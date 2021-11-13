@@ -8,7 +8,7 @@ const Blog = ({blog}) => {
     return (
         <Grid
       item
-      xs={12} sm={12} md={4}
+      xs={12}
       container
       alignItems='center'
       spacing={2}
